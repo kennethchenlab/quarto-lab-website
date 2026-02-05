@@ -1,0 +1,13 @@
+---
+title: "Publications"
+bibliography: publications.bib
+nocite: |
+  @*
+csl: nature.csl
+execute:
+  enabled: false
+---
+
+
+<div id="refs"></div>
+

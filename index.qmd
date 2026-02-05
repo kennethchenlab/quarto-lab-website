@@ -1,0 +1,10 @@
+---
+title: "Chen Lab"
+subtitle: "RNA dysregulation in childhood cancer"
+execute:
+  enabled: false
+---
+
+::: {.hero}
+![](images/rawpixel-781987-unsplash.jpg){.hero-image}
+:::

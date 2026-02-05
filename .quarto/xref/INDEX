@@ -1,0 +1,38 @@
+{
+  "contact.qmd": {
+    "contact.html": "bcb8b0c6"
+  },
+  "publications/index.qmd": {
+    "index.html": "04acd02b"
+  },
+  "index.qmd": {
+    "index.html": "5a628e2a"
+  },
+  "about.qmd": {
+    "about.html": "21539e44"
+  },
+  "members/index.qmd": {
+    "index.html": "ed84682b"
+  },
+  "members/bios/ptiburcio.qmd": {
+    "ptiburcio.html": "4e51e4f1"
+  },
+  "members/bios/jhadas.qmd": {
+    "jhadas.html": "25c79be2"
+  },
+  "members/bios/areyes.qmd": {
+    "areyes.html": "c4621d0b"
+  },
+  "members/bios/kchen.qmd": {
+    "kchen.html": "465f6ad2"
+  },
+  "members/bios/ijagadeeswaran.qmd": {
+    "ijagadeeswaran.html": "977eacd0"
+  },
+  "members/bios/pkulshrestha.qmd": {
+    "pkulshrestha.html": "8c72f453"
+  },
+  "members/alumni.qmd": {
+    "alumni.html": "8b003031"
+  }
+}

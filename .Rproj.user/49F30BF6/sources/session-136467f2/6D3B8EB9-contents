@@ -1,0 +1,82 @@
+@article{Zhang2025RAS,
+  author  = {Zhang, L. and Mallinger, P.H.R. and Zhou, S. and Makri, S.C. and Gross, J.M. and Lucas, C.H.G. and Zou, Y.S. and Mize, W. and Olson, D.R. and Munnikhuysen, S.R. and Rawwas, J. and Messinger, Y. and Chen, K.S. and Schultz, K.A.P. and Pratilas, C.A.},
+  title   = {RAS pathway targeted therapy in patients with DICER1-associated sarcomas},
+  journal = {npj Precision Oncology},
+  year    = {2025},
+  volume  = {9},
+  pages   = {232},
+  doi     = {10.1038/s41698-025-01026-0},
+  pmid    = {40634537}
+}
+
+@article{Tiburcio2025PDL1,
+  author  = {Tiburcio, P.D.B. and Desai, K. and Warne, A. and Nabbi, A. and Zhou, S. and Reiff, S.D. and Campbell, M.E. and Amatruda, J.F. and Chen, K.S.},
+  title   = {PD-L1 expression is mediated by microRNA processing, Wnt/β-catenin signaling, and chemotherapy in Wilms tumor},
+  journal = {Pediatric Blood \& Cancer},
+  year    = {2025},
+  doi     = {10.1002/pbc.31852},
+  pmid    = {40512079}
+}
+
+@article{Tiburcio2025ActD,
+  author  = {Tiburcio, P.D.B. and Chen, K. and Xu, L. and Chen, K.S.},
+  title   = {Suppressing proteasome activity enhances sensitivity to actinomycin D in diffuse anaplastic Wilms tumor},
+  journal = {Cell Reports Medicine},
+  year    = {2025},
+  doi     = {10.1016/j.xcrm.2025.102133},
+  pmid    = {40347939},
+  pmcid   = {PMC12147910}
+}
+
+@article{Fraire2025Pineoblastoma,
+  author  = {Fraire, C.R. and Desai, K. and Jagadeeswaran, I. and Obalapuram, U.A. and Mendyka, L.K. and Rajaram, V. and Sebastian, T. and Wang, Y. and Onel, K. and Lee, J. and Chen, K.S.},
+  title   = {An imbalance between proliferation and differentiation underlies the development of microRNA-defective pineoblastoma},
+  journal = {Genes \& Development},
+  year    = {2025},
+  doi     = {10.1101/gad.352485.124},
+  pmid    = {40240142}
+}
+
+@article{Schoettler2024ASK,
+  author  = {Schoettler, P.J. and Smith, C.C. and Nishitani, M. and Harris, A.K. and Nelson, A.T. and Watson, D.A. and Kamihara, J. and Mullen, E.A. and Hill, D.A. and Messinger, Y.H. and Fair, D.B. and Kumar, K.A. and Dehner, L.P. and Ash, S. and Chen, K.S. and Schultz, K.A.P.},
+  title   = {Anaplastic Sarcoma of the Kidney (DICER1-Sarcoma of the Kidney): A Report from the International Pleuropulmonary Blastoma/DICER1 Registry},
+  journal = {Pediatric Blood \& Cancer},
+  year    = {2024},
+  pages   = {e31090},
+  doi     = {10.1002/pbc.31090},
+  pmid    = {38807260},
+  pmcid   = {PMC11590164}
+}
+
+@article{Tiburcio2024DROSHA,
+  author  = {Tiburcio, P.D.B. and Desai, K. and Kim, J. and Zhou, Q. and Guo, L. and Xiao, X. and Zhou, L. and Yuksel, A. and Catchpoole, D.R. and Amatruda, J.F. and Xu, L. and Chen, K.S.},
+  title   = {DROSHA regulates mesenchymal gene expression in Wilms tumor},
+  journal = {Molecular Cancer Research},
+  year    = {2024},
+  doi     = {10.1158/1541-7786.MCR-23-0930},
+  pmid    = {38647377},
+  pmcid   = {PMC11296922}
+}
+
+@article{Fraire2023SLCT,
+  author  = {Fraire, C.R. and Mallinger, P.R. and Hatton, J.N. and Kim, J. and Dickens, D.S. and Argenta, P.A. and Milanovich, S. and Hartshorne, T. and Carey, D.J. and Haley, J.S. and Urban, G. and Lee, J. and Hill, D.A. and Stewart, D.R. and Schultz, K.A.P. and Chen, K.S.},
+  title   = {Intronic germline DICER1 variants in patients with Sertoli--Leydig cell tumor},
+  journal = {JCO Precision Oncology},
+  year    = {2023},
+  volume  = {7},
+  pages   = {e2300189},
+  doi     = {10.1200/PO.23.00189},
+  pmid    = {37883719},
+  pmcid   = {PMC10860953}
+}
+
+@article{Aguayo2023PLAG1,
+  author  = {Aguayo, J.S. and Shelton, J.M. and Tan, W. and Rakheja, D. and Cai, C. and Shalaby, A. and Lee, J. and Iannaccone, S.T. and Xu, L. and Chen, K.S. and Burns, D.K. and Zheng, Y.},
+  title   = {Ectopic PLAG1 induces muscular dystrophy in the mouse},
+  journal = {Biochemical and Biophysical Research Communications},
+  year    = {2023},
+  volume  = {665},
+  pages   = {159--168},
+  doi     = {10.1016/j.bbrc.2023.05.006},
+  pmid    = {37163936}
+}
