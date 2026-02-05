@@ -7,3 +7,6 @@
 
 [context.production.environment]
   NETLIFY_USE_QUARTO = "true"
+  
+[[plugins]]
+package = "@quarto/netlify-plugin-quarto"
