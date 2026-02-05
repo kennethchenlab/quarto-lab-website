@@ -4,3 +4,6 @@
 
 [build.environment]
   QUARTO_VERSION = "1.5.57"
+
+[context.production.environment]
+  NETLIFY_USE_QUARTO = "true"
