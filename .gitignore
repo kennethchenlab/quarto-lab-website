@@ -4,3 +4,7 @@
 .Ruserdata
 /.quarto/
 todelete
+/_site/
+/_quarto/
+_freeze/
+.DS_Store
