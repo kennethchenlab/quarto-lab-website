@@ -17,6 +17,11 @@ This is the Kenneth Chen lab website, built with [Quarto](https://quarto.org/) a
 -   Add bio in `members/bios/`
 -   Add photo in `members/photos/`
 
+### Graduate a lab member
+
+-   Remove entry from `members/data/member.yml`
+-   Add entry to `members/data/alumni.yml`
+
 ### Update publications
 
 -   Add BibTeX entry to `publications/publications.bib`

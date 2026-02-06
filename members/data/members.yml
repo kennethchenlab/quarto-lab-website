@@ -3,7 +3,8 @@ faculty:
     photo: "photos/kenneth-chen.jpg"
     role: "Principal Investigator"
     email: "Kenneth.Chen@utsw.edu"
-    twitter: "kennethschen"
+    orcid: 0000-0003-2304-4631
+    scholar: https://scholar.google.com/citations?user=92xrqCgAAAAJ&hl=en
     bio: "bios/kchen.qmd"
 
 staff:
@@ -12,12 +13,6 @@ staff:
     role: "Senior Research Associate"
     email: "Jana.Hadas@utsw.edu"
     bio: "bios/jhadas.qmd"
-
-  # - name: "Chelcea Zamora"
-  #   photo: "photos/czamora-646.jpg"
-  #   role: "Research Technician"
-  #   email: "Chelcea.Zamora@utsw.edu"
-  #   bio: "bios/czamora.qmd"
 
   - name: "Indumathy Jagadeeswaran, PhD"
     photo: "photos/indu-jagadeeswaran-646.jpg"
@@ -32,7 +27,6 @@ staff:
     twitter: "pdbtiburcio"
     bio: "bios/ptiburcio.qmd"
     
-
 postdocs:
 
   - name: "Prerna Kulshrestha, PhD"

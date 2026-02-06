@@ -67,7 +67,21 @@
 
 .person-links {
   margin-top: 0.5rem;
-  font-size: 0.9em;
+}
+
+.person-links a {
+  margin-right: 0.6rem;
+  text-decoration: none;
+  color: #444;
+}
+
+.person-links a:hover {
+  color: #000;
+}
+.person-icon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
 }
 
 
@@ -82,7 +96,7 @@
 }
 
 .bio-photo {
-  max-width: 250px;
+  max-width: 400px;
   float: right;
   margin: 0 0 1rem 1.25rem;
   border-radius: 8px;

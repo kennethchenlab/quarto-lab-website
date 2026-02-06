@@ -1,6 +1,6 @@
 ---
 title: "Chen Lab"
-subtitle: "RNA dysregulation in childhood cancer"
+subtitle: "Dysregulated gene expression in childhood cancer"
 execute:
   enabled: false
 ---

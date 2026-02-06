@@ -12,6 +12,7 @@ format:
 website:
   title: "Chen Lab"
   site-url: "https://www.kennethchenlab.com/"
+  search: true
 
   navbar:
     brand: "CHEN LAB"
@@ -31,8 +32,6 @@ website:
     left: |
       © 2019–present Chen Lab
     right:
-      - icon: twitter
-        href: https://twitter.com/kennethschen
       - icon: github
         href: https://github.com/kennethchenlab
 

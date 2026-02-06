@@ -1,11 +1,10 @@
 ---
 title: "Indumathy Jagadeeswaran"
-image: ../photos/indu-jagadeeswaran-park.jpeg
 ---
 
 ← [Back to Members](../index.qmd)
 
-![](../photos/indu-jagadeeswaran-park.jpg){.bio-photo}
+![](../photos/indu-jagadeeswaran-park.jpeg){.bio-photo}
 
 ## Research Background
 
