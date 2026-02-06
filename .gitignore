@@ -1,11 +1,10 @@
-.Rproj.user
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-/.quarto/
-todelete
-/_site/
-/_quarto/
+.quarto/
+_site/
+_quarto/
 _freeze/
 .DS_Store
-.Rproj.user/
+quarto-website-test.Rproj
