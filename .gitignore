@@ -8,3 +8,4 @@ todelete
 /_quarto/
 _freeze/
 .DS_Store
+.Rproj.user/

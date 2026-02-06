@@ -4,13 +4,10 @@ execute:
   enabled: false
 ---
 
-## Our research
-
 The Chen Lab studies how disruptions in RNA regulation drive childhood cancer.
 Our work focuses on understanding how defects in RNA synthesis, processing, and
 degradation reshape gene expression programs in pediatric tumors.
 
----
 
 ## Research areas
 
