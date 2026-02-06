@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 46811f0c-5b3d-4167-83a6-85d49ba2a023
+      url: https://deluxe-scone-56980c.netlify.app

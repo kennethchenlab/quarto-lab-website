@@ -1,0 +1,12 @@
+---
+title: "Wilms tumor"
+format: html
+---
+
+← [Back to Research](/research/)
+
+![](/images/11016.4-1 ctrl 20x p2_composite_BC_0_195-shrink.jpeg){.hero-image}
+
+Wilms tumor is the most common pediatric kidney cancer. Many cases are driven by mutations in transcription factors, chromatin remodeling factors, or microRNA processing genes. We are studying how these mutations affect gene expression and drive tumor formation.
+
+These studies are performed both *in vitro* using cell-line models and *in vivo* by generating genetically engineered mouse models. In addition, we continue to sequence Wilms tumors to fully describe the landscape of gene dysregulation mechanisms.

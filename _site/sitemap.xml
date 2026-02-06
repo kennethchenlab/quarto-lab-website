@@ -18,11 +18,27 @@
   </url>
   <url>
     <loc>https://www.kennethchenlab.com/about.html</loc>
-    <lastmod>2026-02-05T20:45:44.610Z</lastmod>
+    <lastmod>2026-02-05T23:31:45.056Z</lastmod>
   </url>
   <url>
     <loc>https://www.kennethchenlab.com/publications/index.html</loc>
     <lastmod>2026-02-05T20:16:58.282Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kennethchenlab.com/research/dicer1.html</loc>
+    <lastmod>2026-02-06T16:02:52.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kennethchenlab.com/research/index.html</loc>
+    <lastmod>2026-02-06T16:02:43.892Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kennethchenlab.com/research/wilms.html</loc>
+    <lastmod>2026-02-06T16:03:08.418Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kennethchenlab.com/research/pineo.html</loc>
+    <lastmod>2026-02-06T16:03:17.946Z</lastmod>
   </url>
   <url>
     <loc>https://www.kennethchenlab.com/contact.html</loc>
@@ -30,7 +46,7 @@
   </url>
   <url>
     <loc>https://www.kennethchenlab.com/index.html</loc>
-    <lastmod>2026-02-05T21:10:08.289Z</lastmod>
+    <lastmod>2026-02-06T16:00:03.913Z</lastmod>
   </url>
   <url>
     <loc>https://www.kennethchenlab.com/members/alumni.html</loc>
@@ -47,5 +63,9 @@
   <url>
     <loc>https://www.kennethchenlab.com/members/bios/kchen.html</loc>
     <lastmod>2026-02-05T21:16:05.469Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kennethchenlab.com/todelete/about.html</loc>
+    <lastmod>2026-02-05T23:31:45.056Z</lastmod>
   </url>
 </urlset>

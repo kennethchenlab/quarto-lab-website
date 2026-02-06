@@ -4,8 +4,8 @@ project:
   
 format:
   html:
-    theme: cosmo
-    css: assets/style.css
+    theme: minty
+    css: styles.css
     toc: true
     citeproc: true
 
@@ -19,7 +19,7 @@ website:
       - text: Home
         href: index.qmd
       - text: Research
-        href: about.qmd
+        href: research/index.qmd
       - text: Publications
         href: publications/index.qmd
       - text: Members

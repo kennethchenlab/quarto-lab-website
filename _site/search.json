@@ -119,6 +119,69 @@
     "text": "1. Zhang, L. et al. RAS pathway targeted therapy in patients with DICER1-associated sarcomas. npj Precision Oncology 9, 232 (2025).\n\n\n2. Tiburcio, P. D. B. et al. PD-L1 expression is mediated by microRNA processing, wnt/β-catenin signaling, and chemotherapy in wilms tumor. Pediatric Blood & Cancer https://doi.org/10.1002/pbc.31852 (2025) doi:10.1002/pbc.31852.\n\n\n3. Tiburcio, P. D. B., Chen, K., Xu, L. & Chen, K. S. Suppressing proteasome activity enhances sensitivity to actinomycin d in diffuse anaplastic wilms tumor. Cell Reports Medicine https://doi.org/10.1016/j.xcrm.2025.102133 (2025) doi:10.1016/j.xcrm.2025.102133.\n\n\n4. Fraire, C. R. et al. An imbalance between proliferation and differentiation underlies the development of microRNA-defective pineoblastoma. Genes & Development https://doi.org/10.1101/gad.352485.124 (2025) doi:10.1101/gad.352485.124.\n\n\n5. Schoettler, P. J. et al. Anaplastic sarcoma of the kidney (DICER1-sarcoma of the kidney): A report from the international pleuropulmonary blastoma/DICER1 registry. Pediatric Blood & Cancer e31090 (2024) doi:10.1002/pbc.31090.\n\n\n6. Tiburcio, P. D. B. et al. DROSHA regulates mesenchymal gene expression in wilms tumor. Molecular Cancer Research https://doi.org/10.1158/1541-7786.MCR-23-0930 (2024) doi:10.1158/1541-7786.MCR-23-0930.\n\n\n7. Fraire, C. R. et al. Intronic germline DICER1 variants in patients with sertoli–leydig cell tumor. JCO Precision Oncology 7, e2300189 (2023).\n\n\n8. Aguayo, J. S. et al. Ectopic PLAG1 induces muscular dystrophy in the mouse. Biochemical and Biophysical Research Communications 665, 159–168 (2023)."
   },
   {
+    "objectID": "research/dicer1.html",
+    "href": "research/dicer1.html",
+    "title": "DICER1-related cancers",
+    "section": "",
+    "text": "← Back to Research"
+  },
+  {
+    "objectID": "research/dicer1.html#overview",
+    "href": "research/dicer1.html#overview",
+    "title": "DICER1-related cancers",
+    "section": "Overview",
+    "text": "Overview\nMutations in the microRNA-processing gene DICER1 predispose individuals to a spectrum of rare pediatric cancers."
+  },
+  {
+    "objectID": "research/dicer1.html#our-approach",
+    "href": "research/dicer1.html#our-approach",
+    "title": "DICER1-related cancers",
+    "section": "Our approach",
+    "text": "Our approach\nWe use a combination of genomic analysis, cell-based models, and in vivo systems to understand how DICER1 dysfunction alters gene expression and drives tumorigenesis."
+  },
+  {
+    "objectID": "research/dicer1.html#current-directions",
+    "href": "research/dicer1.html#current-directions",
+    "title": "DICER1-related cancers",
+    "section": "Current directions",
+    "text": "Current directions\n\nMechanisms of microRNA loss\nTumor-specific vulnerabilities\nTranslational opportunities"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "The Chen Lab studies how disruptions in RNA regulation drive childhood cancer. Our work focuses on understanding how defects in RNA synthesis, processing, and degradation reshape gene expression programs in pediatric tumors."
+  },
+  {
+    "objectID": "research/index.html#our-research",
+    "href": "research/index.html#our-research",
+    "title": "Research",
+    "section": "",
+    "text": "The Chen Lab studies how disruptions in RNA regulation drive childhood cancer. Our work focuses on understanding how defects in RNA synthesis, processing, and degradation reshape gene expression programs in pediatric tumors."
+  },
+  {
+    "objectID": "research/index.html#research-areas",
+    "href": "research/index.html#research-areas",
+    "title": "Research",
+    "section": "Research areas",
+    "text": "Research areas\n\n\nDICER1-related cancers\nUnderstanding how alterations in the microRNA-processing gene DICER1 drive pleuropulmonary blastoma and other pediatric tumors.\n\n\nWilms tumor\nDefining how transcriptional and chromatin dysregulation contribute to pediatric kidney cancer.\n\n\nPineoblastoma\nInvestigating how tumors evade transcriptional inhibition and develop resistance to therapy."
+  },
+  {
+    "objectID": "research/wilms.html",
+    "href": "research/wilms.html",
+    "title": "Wilms tumor",
+    "section": "",
+    "text": "← Back to Research\n\nWilms tumor is the most common pediatric kidney cancer. Many cases are driven by mutations in transcription factors, chromatin remodeling factors, or microRNA processing genes. We are studying how these mutations affect gene expression and drive tumor formation.\nThese studies are performed both in vitro using cell-line models and in vivo by generating genetically engineered mouse models. In addition, we continue to sequence Wilms tumors to fully describe the landscape of gene dysregulation mechanisms."
+  },
+  {
+    "objectID": "research/pineo.html",
+    "href": "research/pineo.html",
+    "title": "Pineoblastoma",
+    "section": "",
+    "text": "← Back to Research\n\nWhile other cancer types may be driven by partial loss of microRNAs, the pediatric brain tumor pineoblastoma is unique because it can form with complete loss of microRNAs. To understand what makes these tumors function, we built a genetic mouse model of pineoblastoma by knocking out microRNA factors. Interestingly, these tumors harness some of the same tumor-driving pathways we see in DROSHA-driven Wilms tumor. We are continuing to use this model to identify new ways to block these tumor-driving pathways."
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
@@ -138,6 +201,13 @@
     "title": "Contact",
     "section": "Find Us",
     "text": "Find Us\nWe are in the Division of Pediatric Hematology–Oncology, in the Department of Pediatrics at UT Southwestern.\n\nFind our plasmids"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chen Lab",
+    "section": "",
+    "text": "The Chen Lab studies how disruptions in gene expression drive childhood cancers.\nGene expression is tightly controlled in healthy cells, but in many pediatric tumors these regulatory systems break down, leading to abnormal cell identity and unchecked growth.\nOur work focuses on understanding how defects in RNA regulation reshape gene expression programs in cancer. Because pediatric cancers can exploit pathways from normal embryonic development, we use the tools of developmental biology to understand how pediatric cancers form. Ultimately, we aim to uncover new biological vulnerabilities and more effective, less toxic therapies for children with cancer."
   },
   {
     "objectID": "members/bios/jhadas.html",
@@ -201,5 +271,33 @@
     "title": "Kenneth Chen",
     "section": "When I’m not at work",
     "text": "When I’m not at work\nWhen I’m not visiting dinosaur museums, or cheering on Ohio State football games, or playing my acoustic guitar, or watching a British crime drama (with captions, obviously! How else can you understand what they’re saying?), or babysitting my nieces, or listening to tech podcasts while jogging, or trying new coffee (V60 pourover, of course), or going grocery shopping (I really enjoy walking through produce aisles, okay?), or volunteering at a homeless ministry with church friends, or watching upcoming movie trailers (just the trailers. I don’t need to see the movies.), or trying new (and old!) restaurants, I’m probably scrolling through Twitter."
+  },
+  {
+    "objectID": "todelete/about.html",
+    "href": "todelete/about.html",
+    "title": "RNA regulation in childhood cancer",
+    "section": "",
+    "text": "Gene expression is a highly dynamic process. To regulate RNA synthesis and degradation, cells use a variety of tools for regulating gene expression.\nHowever, many childhood cancers are driven by loss of these regulatory tools. For example, loss of one of these tools, known as microRNAs, can lead to a variety of rare childhood tumors. Many other cancers bear mutations in transcription factors, the proteins that give a cell its identity by determining which genes are expressed. Yet other cancers are driven by mutations in chromatin remodeling complexes.\nWe study how dysregulation of RNA synthesis and degradation drives childhood cancers with the ultimate goal of identifying new therapeutic vulnerabilities to exploit in treating them."
+  },
+  {
+    "objectID": "todelete/about.html#dicer1-related-cancers",
+    "href": "todelete/about.html#dicer1-related-cancers",
+    "title": "RNA regulation in childhood cancer",
+    "section": "DICER1-related cancers",
+    "text": "DICER1-related cancers\n\nOne particular gene which regulates gene expression, known as DICER1, is mutated in a wide range of rare cancers. DICER1 is one of the key enzymes in microRNA production. In fact, some people are born with germline variants in DICER1 that predispose them to developing cancer.\nHowever, no therapies have been developed for DICER1-related cancers. We seek to understand how these cancers arise using both in vitro and in vivo models."
+  },
+  {
+    "objectID": "todelete/about.html#wilms-tumor",
+    "href": "todelete/about.html#wilms-tumor",
+    "title": "RNA regulation in childhood cancer",
+    "section": "Wilms tumor",
+    "text": "Wilms tumor\n\nWilms tumor is the most common pediatric kidney cancer. Many cases are driven by mutations in transcription factors, chromatin remodeling factors, or microRNA processing genes. We are studying how these mutations affect gene expression and drive tumor formation.\nThese studies are performed both in vitro using cell-line models and in vivo by generating genetically engineered mouse models. In addition, we continue to sequence Wilms tumors to fully describe the landscape of gene dysregulation mechanisms."
+  },
+  {
+    "objectID": "todelete/about.html#chemoresistance",
+    "href": "todelete/about.html#chemoresistance",
+    "title": "RNA regulation in childhood cancer",
+    "section": "Chemoresistance",
+    "text": "Chemoresistance\n\nDactinomycin, an inhibitor of transcription (RNA production), is one of the most commonly used chemotherapy drugs for childhood cancers including Wilms tumor, rhabdomyosarcoma, and pleuropulmonary blastoma.\nHowever, most tumors that are resistant to front-line therapy become impossible to treat. We are investigating how tumors evade transcriptional inhibition and ways to target these escape mechanisms."
   }
 ]

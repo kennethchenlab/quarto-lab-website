@@ -1,0 +1,11 @@
+---
+title: "Pineoblastoma"
+format: html
+---
+
+
+← [Back to Research](/research/)
+
+![](/images/drosha-tumors-a1.png){.hero-image}
+
+While other cancer types may be driven by partial loss of microRNAs, the pediatric brain tumor pineoblastoma is unique because it can form with complete loss of microRNAs. To understand what makes these tumors function, we built a genetic mouse model of pineoblastoma by knocking out microRNA factors. Interestingly, these tumors harness some of the same tumor-driving pathways we see in *DROSHA*-driven Wilms tumor. We are continuing to use this model to identify new ways to block these tumor-driving pathways. 

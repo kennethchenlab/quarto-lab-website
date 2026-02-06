@@ -1,0 +1,26 @@
+---
+title: "*DICER1*-related cancers"
+execute:
+  enabled: false
+---
+
+← [Back to Research](/research/)
+
+
+![](/images/dicer1-syndrome.png){.her-image}
+
+## Overview
+
+Mutations in the microRNA-processing gene *DICER1* predispose individuals to a
+spectrum of rare pediatric cancers.
+
+## Our approach
+
+We use a combination of genomic analysis, cell-based models, and in vivo systems
+to understand how DICER1 dysfunction alters gene expression and drives tumorigenesis.
+
+## Current directions
+
+- Mechanisms of microRNA loss
+- Tumor-specific vulnerabilities
+- Translational opportunities

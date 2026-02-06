@@ -34,5 +34,20 @@
   },
   "members/alumni.qmd": {
     "alumni.html": "8b003031"
+  },
+  "research/wilms.qmd": {
+    "wilms.html": "cfd4fc7c"
+  },
+  "research/index.qmd": {
+    "index.html": "d5026f93"
+  },
+  "research/pineo.qmd": {
+    "pineo.html": "ac229520"
+  },
+  "research/dicer1.qmd": {
+    "dicer1.html": "83be05f2"
+  },
+  "todelete/about.qmd": {
+    "about.html": "831d12ff"
   }
 }

@@ -1,0 +1,27 @@
+---
+title: "Research"
+execute:
+  enabled: false
+---
+
+## Our research
+
+The Chen Lab studies how disruptions in RNA regulation drive childhood cancer.
+Our work focuses on understanding how defects in RNA synthesis, processing, and
+degradation reshape gene expression programs in pediatric tumors.
+
+---
+
+## Research areas
+
+
+![](/images/kidney-tumor-rna.png){.bio-photo}
+
+### [*DICER1*-related cancers](/research/dicer1.qmd)
+Understanding how alterations in the microRNA-processing gene *DICER1* drive pleuropulmonary blastoma and other pediatric tumors.
+
+### [Wilms tumor](/research/wilms.qmd)
+Defining how transcriptional and chromatin dysregulation contribute to pediatric kidney cancer.
+
+### [Pineoblastoma](/research/pineo.qmd)
+Investigating how tumors evade transcriptional inhibition and develop resistance to therapy.

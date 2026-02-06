@@ -1,8 +1,7 @@
 faculty:
-  - name: "Kenneth Chen, MD, PhD"
+  - name: "Kenneth Chen, MD"
     photo: "photos/kenneth-chen.jpg"
     role: "Principal Investigator"
-    title: "Assistant Professor"
     email: "Kenneth.Chen@utsw.edu"
     twitter: "kennethschen"
     bio: "bios/kchen.qmd"
