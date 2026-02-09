@@ -4,7 +4,7 @@ project:
   
 format:
   html:
-    theme: minty
+    theme: sandstone
     css: styles.css
     toc: true
     citeproc: true

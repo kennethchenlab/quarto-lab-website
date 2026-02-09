@@ -8,3 +8,5 @@ _quarto/
 _freeze/
 .DS_Store
 quarto-website-test.Rproj
+
+/.quarto/
