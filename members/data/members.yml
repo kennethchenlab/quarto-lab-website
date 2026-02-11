@@ -21,10 +21,10 @@ staff:
     bio: "bios/ijagadeeswaran.qmd"
 
   - name: "Patricia Tiburcio, PhD"
-    photo: "photos/patricia-tiburcio.jpg"
+    photo: "photos/tiburcio-headshot.jpg"
     role: "Research Scientist"
     email: "PatriciaDenise.Tiburcio@utsw.edu"
-    twitter: "pdbtiburcio"
+    orcid: 0000-0001-7978-1767
     bio: "bios/ptiburcio.qmd"
     
 postdocs:
