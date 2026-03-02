@@ -1,6 +1,6 @@
 ---
 title: "Chen Lab"
-subtitle: "Dysregulated gene expression in childhood cancer"
+subtitle: "We study how disruptions in gene expression drive childhood cancers."
 execute:
   enabled: false
 ---
@@ -8,9 +8,6 @@ execute:
 ::: {.hero}
 ![](/images/11016.4-1 ctrl 20x p2_composite_BC_0_195-shrink.jpeg){.hero-image}
 :::
-
-
-The Chen Lab studies how disruptions in gene expression drive childhood cancers.
 
 Gene expression is tightly controlled in healthy cells, but in many pediatric tumors these regulatory systems break down, leading to abnormal cell identity and unchecked growth.
 
