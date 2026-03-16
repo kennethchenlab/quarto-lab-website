@@ -140,7 +140,7 @@ render_group(all_members)
 ```
 :::
 
-## Where are they now?
+## Lab alumni
 
 ```{r}
 alumni <- yaml::read_yaml("data/alumni.yml")$alumni
@@ -153,7 +153,6 @@ for (p in alumni) {
   cat(glue(
 "<li>
 <strong>{p$name}</strong> <br>
-<em>{p$nextstop}</em>
 </li>
 "
 ))

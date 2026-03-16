@@ -1,14 +1,23 @@
 alumni:
 
-  - name: "Claudette Fraire, PhD"
-    # role: "Graduate Student"
-    nextstop: "Cook Children's, Fort Worth, TX"
-
   - name: "Peter Schoettler, MD"
     # role: "Pediatric Hematology-Oncology Fellow"
-    nextstop: "Mayo Clinic, Rochester, MN"
+    # nextstop: "Mayo Clinic, Rochester, MN"
 
+  - name: "Austin Warne, MD"
+
+  - name: "Claudette Fraire, PhD"
+    # role: "Graduate Student"
+    # nextstop: "Cook Children's, Fort Worth, TX"
+
+  - name: "Chelcea Morris"
+  
   - name: "Lindsay Mendyka"
     # role: "Research Assistant"
-    nextstop: "Dartmouth Geisel School of Medicine, Lebanon, NH"
+    # nextstop: "Dartmouth Geisel School of Medicine, Lebanon, NH"
+  - name: "Lane Beeman"
+
+  - name: "Bendu Konneh"
+  
+  
 
